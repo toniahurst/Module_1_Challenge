@@ -1,4 +1,4 @@
-# **Module_1_Challenge**
+# Module_1_Challenge
 
 This is a five-part python program to evaluate microcredit loans. It automates the collection of data, analyzes data, performs financial calculations, filters a list of loans, and writes qualified loans to a file.
 
@@ -10,19 +10,19 @@ loan_analyzer_less_than_or_equal_to_500 writes to inexpensive_loans_less_than_or
 
 ---
 
-## **Technologies**
+## Technologies
 
 This project uses python 3.7 and csv.py writer
 
 ---
 
-## *Installation Guide*
+## Installation Guide
 
 No additional software packages required.
 
 ---
 
-## *Usage*
+## **Usage**
 To use this program, clone the repository and run **python loan_analyzer_less_than_500.py** OR python loan_analyzer_less_than__or_equal_to_500.py with:
 
 ```python
@@ -39,16 +39,18 @@ Depending on which app you run, you will get output that looks one of this scree
 
 ![loan_analyzer_less_than_500](loan_analyzer_less_than_500.png)
 
+---
+
 ![loan_analyzer_less_than__or_equal_to_500](loan_analyzer_less_than_or_equal_to_500.png)
 
 ---
 
-## *Contributors*
+## Contributors
 
 Antonia Hurst
 
 ---
 
-## *License*
+## License
 
 MIT
